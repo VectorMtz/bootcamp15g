@@ -1,0 +1,25 @@
+
+  form { background-color: white;}
+  a:link {
+    color: rgb(243, 3, 151);
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  input {
+    border-style: solid;
+    border-color: black;
+    border-radius: 3px;     
+    
+  }
